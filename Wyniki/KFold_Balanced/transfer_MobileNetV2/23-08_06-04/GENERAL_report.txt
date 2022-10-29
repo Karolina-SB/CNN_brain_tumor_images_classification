@@ -1,0 +1,9 @@
+Test Accuracy:  0.6400 (+/- 0.0684)
+Test Loss:      1.4116  (+/- 0.5120)
+Test Precision: 0.9675 (+/- 0.0402)
+Test Recall:    0.2960 (+/- 0.1587)
+Test F1:        0.4295 (+/- 0.1586)
+Test Time:      47.230  (+/- 1.308)
+
+
+tf.keras.callbacks.ReduceLROnPlateau(patience=bez tego, min_lr=bez tego)

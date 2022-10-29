@@ -1,0 +1,16 @@
+              precision    recall  f1-score   support
+
+           0     0.7959    0.6964    0.7429        56
+           1     0.8931    0.9342    0.9132       152
+
+    accuracy                         0.8702       208
+   macro avg     0.8445    0.8153    0.8280       208
+weighted avg     0.8669    0.8702    0.8673       208
+
+
+
+
+Trening trwa³: 703.673 sekund
+
+
+Test Loss: 0.2801
